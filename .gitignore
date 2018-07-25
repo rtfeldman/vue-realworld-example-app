@@ -22,6 +22,5 @@ selenium-debug.log
 Thumbs.db
 
 # Generated Files
-dist/
 test/unit/coverage
 test/e2e/reports
